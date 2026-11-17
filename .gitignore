@@ -2,3 +2,5 @@
 
 ###   Folders   ###
 .venv
+__pycache__/
+*.py[cod]
