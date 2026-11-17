@@ -1,0 +1,4 @@
+#This is for ignore some folders and files
+
+###   Folders   ###
+.venv
